@@ -1,0 +1,21 @@
+<mat-card>
+  <mat-card-header>
+    <div style="display: flex; align-items: center;">
+      <div>
+        <mat-card-title>{{movieInfo.name}}</mat-card-title>
+        <mat-card-subtitle>Year of release: {{movieInfo.dateOfRelease?.getFullYear()}}</mat-card-subtitle>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <!-- Add your filler text here -->
+      </div>
+      <img mat-card-image src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG7w4RjdtwfTZYva5BQx5PxZB75ZESw0i8HBFGaaj7L5ouhF9P" alt="MOVIE" 
+      width="170" height="125" style="margin-left: 10px;">
+    </div>
+  </mat-card-header>
+  <mat-card-content>
+    Licensing Type: {{movieInfo.licensingType === licensingTypeEnum.TwoDay ? "Two Day License" : "Lifelong License"}}
+  </mat-card-content>
+  <mat-card-actions align="end">
+    <button mat-button (click)="selectBuyMovie(movieInfo.id)">Buy</button>
+    <button mat-button routerLink="/movies/edit/{{movieInfo.id}}">Edit</button>
+    <button mat-button (click)="selectDeleteMovie(movieInfo.id!)">Delete</button>
+  </mat-card-actions>
+</mat-card>

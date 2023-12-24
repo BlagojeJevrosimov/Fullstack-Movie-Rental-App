@@ -1,0 +1,17 @@
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Infrastructure.deps.json
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Infrastructure.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Infrastructure.pdb
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Core.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\bin\Debug\net7.0\MovieStore.Core.pdb
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\refint\MovieStore.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.pdb
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\MovieStore.Infrastructure.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Infrastructure\obj\Debug\net7.0\ref\MovieStore.Infrastructure.dll

@@ -1,0 +1,10 @@
+<mat-paginator [length]="movieCount"
+              [pageSize]="5"
+              [pageSizeOptions]="[5, 10, 25, 100]"
+              (page)="onPageChange($event)"
+              aria-label="Select page">
+</mat-paginator>
+<li *ngFor="let movie of paginatedMovies;">
+  <app-movie-card [movieInfo]="movie" (deleteMovie)="deleteMovie($event)"></app-movie-card>
+</li>
+<button mat-flat-button routerLink="./add">Add movie</button>

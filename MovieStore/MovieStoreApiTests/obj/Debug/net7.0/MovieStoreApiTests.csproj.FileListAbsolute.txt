@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\bin\Debug\net7.0\CoverletSourceRootsMapping_MovieStoreApiTests
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\obj\Debug\net7.0\MovieStoreApiTests.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\obj\Debug\net7.0\MovieStoreApiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\obj\Debug\net7.0\MovieStoreApiTests.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\obj\Debug\net7.0\MovieStoreApiTests.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStoreApiTests\obj\Debug\net7.0\MovieStoreApiTests.csproj.CoreCompileInputs.cache

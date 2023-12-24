@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\bin\Debug\net7.0\MovieStore.Core.deps.json
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\bin\Debug\net7.0\MovieStore.Core.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\bin\Debug\net7.0\MovieStore.Core.pdb
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\refint\MovieStore.Core.dll
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\MovieStore.Core.pdb
+C:\Users\Korisnik\Desktop\Workspace\praksa\practice-blagoje-jevrosimov\MovieStore\MovieStore.Core\obj\Debug\net7.0\ref\MovieStore.Core.dll

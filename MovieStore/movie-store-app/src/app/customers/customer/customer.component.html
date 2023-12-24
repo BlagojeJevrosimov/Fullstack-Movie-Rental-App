@@ -1,0 +1,17 @@
+<h1 mat-dialog-title>Edit Customer</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <mat-label>Email</mat-label>
+    <input matInput [(ngModel)]="data.customerEmail">
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Role</mat-label>
+    <mat-select matInput [(ngModel)]="data.customerRole">
+        <mat-option value='0'>Regular</mat-option>
+        <mat-option value='1'>Administrator</mat-option>
+    </mat-select>
+</mat-form-field>
+</div>
+<div mat-dialog-actions>
+    <button mat-button [mat-dialog-close]="data" cdkFocusInitial>Ok</button>
+</div>

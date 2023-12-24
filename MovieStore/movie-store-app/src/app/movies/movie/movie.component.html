@@ -1,0 +1,29 @@
+<h1>Movie info</h1>
+<form [formGroup]="movieForm" (ngSubmit)="submitMovie()">
+    <mat-form-field>
+        <mat-label>Name</mat-label>
+        <input matInput formControlName="name" value="{{this.movie.name}}">
+    </mat-form-field>
+    <br>
+    <ng-container *ngIf="this.movieId === null">
+        <mat-form-field>
+            <mat-label>Licensing Type</mat-label>
+            <mat-select formControlName="licensingType" value="{{this.movie.licensingType}}" >
+                <mat-option value='0'>Two day</mat-option>
+                <mat-option value='1'>Lifelong</mat-option>
+            </mat-select>
+        </mat-form-field>
+    </ng-container>
+
+    <br>
+    <mat-form-field>
+        <mat-label>Date of release</mat-label>
+        <input matInput [matDatepicker]="picker" formControlName="dateOfRelease">
+        <mat-datepicker-toggle  matIconSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker ></mat-datepicker>
+    </mat-form-field>
+    <br>
+    <mat-card-footer>
+        <button mat-flat-button color="primary">Submit</button>
+    </mat-card-footer>
+</form>

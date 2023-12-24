@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3pCJNBiKcE4QBrT242+ym0n2+CdpDbF2OjPwX7yn9yR5usdBf/f05nEGxsQVh8QXYgYyTcXNWQDeL5BCd9rG1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\Workspace\\praksa\\practice-blagoje-jevrosimov\\MovieStore\\MovieStore.Core\\MovieStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\fluentresults\\3.15.2\\fluentresults.3.15.2.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
